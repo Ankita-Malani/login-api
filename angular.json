@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "login-ui-app"
+    }
+  },
+  "defaultProject": "login-ui-app",
+  "cli": {
+    "analytics": false
+  }
 }

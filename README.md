@@ -4,6 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+npm set audit false
+npm config set fund false 
+
+npm install
+npm install --save-dev @angular-devkit/build-angular
+
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
